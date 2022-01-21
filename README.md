@@ -18,4 +18,4 @@
 
 # Screenshots
 
-![App screen](/public/assets/images/airbnb-clone.png)
+![App screen](/public/assets/airbnb-clone.png)
